@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(17, 16, 17);
+    }
+            
+    h1 {
+    color: rgb(235, 224, 133);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    }
+    
+    p {
+    color: rgb(245, 245, 244);
+    font-family:monospace;
+    margin-left: 20px;
+    }
+    
+    a:link, a:visited {
+      background-color:rgb(68, 68, 66);
+      color: white;
+      font-family: 'Courier New', Courier, monospace;
+      margin-left: 20px;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: rgb(236, 212, 91);
+    }
